@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "db_name": "posts"
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/comments/1",
+    "db_name": "comments"
+  }
+]
